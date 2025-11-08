@@ -1,5 +1,15 @@
-# Final-Project
-Repo for Final Project Deliverables
+## -- Final Capstone Project -- 
+#
+# Title: Precision Agriculture & Crop Recommendations
+
+# Proposal Problem Statement
+
+The research question you intend to answer (in one sentence, if possible)
+Your expected data source(s) (as either a link to existing data or a sentence describing where you will source the data from)
+The techniques you expect to use in your analysis
+The expected results
+Why this question is important
+
 
 ## (Goal & Objective)
 The goal of this exercise is to 
