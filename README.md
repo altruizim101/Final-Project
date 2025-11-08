@@ -17,11 +17,10 @@ This dataset allows the users to build a predictive model to aid in recommendati
 - Expected results
 - Why this question is important
 
-
 ## (Goal & Objective)
-The goal of this exercise is to 
+The goal of this exercise is to succesfully apply the AI/ML concepts and ML technicques acquired in this program to build 
+predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters.
 
-Data Source: ---- 
    
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
