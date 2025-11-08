@@ -4,9 +4,8 @@
 
 ### Data Source: [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
 ### Data Summary:
-[Kaggle] recommendations from evaluation of this dataset with Machine Learning techniques will aid farmers in making informed decisions in their farming strategy. 
-This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters.
-
+[Kaggle] Recommendations from evaluation of this dataset with Machine Learning techniques will aid farmers in making informed decisions in their farming strategy. 
+This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters."
 
 ## Proposal -
 
