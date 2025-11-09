@@ -15,9 +15,10 @@ This dataset allows the users to build a predictive model to aid in recommendati
 - Techniques expected to use in analysis
 - Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
 - Why this question is important: a) water and land are critical resources b) supports sustainable farming and minimizes application of chemicals,
-  which are generally bad for the environment c) optimizes the production of crops based on nutritional needs.
+  which are generally bad for the environment c) optimizes the production of crops based on nutritional needs. Overall, contribute to a healthy
+population one nutritional crop at a time.
 
-## (Goal & Objective)
+## Goal -
 The goal of this exercise is to succesfully apply the AI/ML concepts and ML technicques acquired in this program to build 
 predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters.
 
