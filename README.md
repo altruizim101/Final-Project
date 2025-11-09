@@ -9,11 +9,11 @@ This dataset allows the users to build a predictive model to aid in recommendati
 
 ## Proposal -
 
-- Research question I expect to answer (in one sentence, if possible)
+- Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on our analysis applying ML tecchniques?
 - Expected data source(s): [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
 
 - Techniques expected to use in analysis
-- Expected results
+- Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
 - Why this question is important
 
 ## (Goal & Objective)
