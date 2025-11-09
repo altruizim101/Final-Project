@@ -11,8 +11,7 @@ This dataset allows the users to build a predictive model to aid in recommendati
 
 - Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on our analysis applying ML tecchniques?
 - Expected data source(s): [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
-
-- Techniques expected to use in analysis
+- Techniques expected to use in analysis: Decision Tree, KNN, SVM, among others.
 - Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
 - Why this question is important: a) water and land are critical resources b) supports sustainable farming and minimizes application of chemicals,
   which are generally bad for the environment c) optimizes the production of crops based on nutritional needs. Overall, contribute to a healthy
