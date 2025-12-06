@@ -38,7 +38,13 @@ Action: removed missing (NaN) data in columns
 ## Analysis
 
 ## Data Visualizations
+Correlation Mtrix:
+- Strong positivwe correlation of about +0.76 observed betwee Potassium (K) and Phosphorous (P).
+- Weak positive correlation (~0.22) between Humidity and rainfall.
+- Weak positive correlation (~0.19) between Humidity and Nitrogen (N).
+
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CorrMatrtix.png)
+
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CovaMatrix.png)
 
 ## Recommendations
