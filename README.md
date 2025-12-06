@@ -57,11 +57,16 @@ Histograms and Feature Distribution:
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Histogram.png)
 
 Boxplots of Features:
-- Temperarature shows a tight distribution, with smallest variance.
+- pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Boxplots.png)
 
+ViolinPlots of Features:
+- pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
+- Humidity and Potassium (K) shows comaprable variances.
+- Rainfall and Nitrgen shows the laragest variances.
+![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Violinplots.png)
 
 
 
