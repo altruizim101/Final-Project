@@ -30,6 +30,7 @@ The final submission should include the Jupyter Notebook and other relevant file
 - Link to Jupyter notebook here >>         
 - Data Analysis & Results >>
 
+ m
 ## (Data Understanding)
 Checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
 Action: removed missing (NaN) data in columns
@@ -37,6 +38,8 @@ Action: removed missing (NaN) data in columns
 ## Analysis
 
 ## Data Visualizations
+![Corr Matrix](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/)
+![Cova Matrix](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/)
 
 ## Recommendations
 
