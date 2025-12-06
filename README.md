@@ -38,8 +38,8 @@ Action: removed missing (NaN) data in columns
 ## Analysis
 
 ## Data Visualizations
-![Corr Matrix](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/)
-![Cova Matrix](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/)
+![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CorrMatrtix.png)
+![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CovaMatrix.png)
 
 ## Recommendations
 
