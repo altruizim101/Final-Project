@@ -54,12 +54,12 @@ Histograms and Feature Distribution:
 - Humidity is left-skewed.
 - Rainfall is right-skewed distribution.
 - Potassium (K) is right-skewed distribution.
-
-- 
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Histogram.png)
 
 Boxplots of Features:
-
+- Temperarature shows a tight distribution, with smallest variance.
+- Humidity and Potassium (K) shows comaprable variances.
+- Rainfall and Nitrgen shows the laragest variances.
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Boxplots.png)
 
 
