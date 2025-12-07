@@ -30,12 +30,9 @@ The final submission should include the Jupyter Notebook and other relevant file
 - Link to Jupyter notebook here >>         
 - Data Analysis & Results >>
 
- m
 ## (Data Understanding)
 Checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
 Action: removed missing (NaN) data in columns
-
-## Analysis
 
 ## Data Visualizations
 Correlation Matrix:
@@ -69,6 +66,14 @@ ViolinPlots of Features:
 ![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Violinplots.png)
 
 
+## Data Analysis & Transformation
+- Feature Engineering
+
+## Metrics Evaluations
+- MMSE, MAE, ...
+- Accuracy
+- ...
 
 ## Recommendations
+- Make recommendations on crops based on evaluations from above.
 
