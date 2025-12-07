@@ -69,9 +69,9 @@ ViolinPlots of Features:
 ## Data Analysis & Transformation
 - Feature Engineering
 
-## Metrics Evaluations
-- MMSE, MAE, ...
-- Accuracy
+## Evaluations - Models and Metrics
+- Technicques & ML models applied
+- Metrics for eval: MMSE, MAE, Accuracy score, ...
 - ...
 
 ## Recommendations
