@@ -33,6 +33,8 @@ Boxplots, Violin plots, and features relationship uisng Correlation matrix, Cova
 
 Identified as a ML classification exercise, we compare various ML models (including K-Nearest Neighbors, Random Forest, Gradient Boost, 
 Support Vector Machine (SVM), Logistic Regression and select the optimal ML model to employ for crop recommendation.
+
+We apply Feature Engineering and K-fold Cross-Validation techniques to improve the precision of recommendation from the data. 
 The optimal ML model is determined by comapring performance measures of precision, recall, F1 score, and Confusion Matrix.
 
 To improve model performance and guide selection of features that are most important in the dataset for classification, 
