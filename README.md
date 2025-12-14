@@ -5,7 +5,7 @@
 ### Data Source: [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
 ### Data Summary:
 [Kaggle] ... "Recommendations from evaluation of this dataset with Machine Learning techniques will aid farmers in making informed decisions in their farming strategy. 
-This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters."
+This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on weather and soil characteristics."
 
 ## Proposal -
 - Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on analysis applying ML tecchniques?
@@ -23,9 +23,15 @@ predictive model to aid in recommendations for suitable crops to grow in a parti
 ## Overview - 
 The drive to produce, healthy, nutritous, and abundant food supply with less resources by applying responsible, thoughtful planning and farming best practices,
 through accessible and affordable technologies en mass for efficient farming resource utilization and environmental preservation.
-This approach will inform farmers in strategies to safeguard harvests from crop diseases, improving yield.
+This approach will inform farmers in their strategies to safeguard harvests from crop diseases, improving yield.
 
+The features of the dataset include the following parameters: soil nutrients phosphorus (P), potassium (K), and nitrogen (N),   
+temperature, humidity, rainfall, and soil pH. The target is the crop label (crop name).
 
+We first visualize the data to gain understanding of the dataset, features distributions through Histograms, Scatter plots, 
+Boxplots, Violin plots, and features relationship Correlation matrix, Covariance matrix, Pairplots.
+The project demonstartes application of the machine learning techniques learned in the course to evaluate performance measures,
+including precision, recall, F1 score, and the confusion matrix.
 
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
