@@ -30,11 +30,12 @@ temperature, humidity, rainfall, and soil pH. The target is the crop label (crop
 
 We first visualize the data to gain understanding of the dataset, features distributions through Histograms, Scatter plots, 
 Boxplots, Violin plots, and features relationship uisng Correlation matrix, Covariance matrix, and Pairplots.
-Identified as a ML classification project, we compare Ml models to apply for crop recommendation, including K-Nearest Neighbors,
-Random Forest, Gradient Boost, Support Vector Machine (SVM), Logistic Regression.
 
-The project demonstartes application of the machine learning techniques learned in the course to evaluate performance measures,
-including precision, recall, F1 score, and the confusion matrix.
+Identified as a ML classification exercise, we compare various ML models (including K-Nearest Neighbors, Random Forest, Gradient Boost, 
+Support Vector Machine (SVM), Logistic Regression and select the optimal ML model to employ for crop recommendation.
+The optimal ML model is determined by comapring performance measures of precision, recall, F1 score, and Confusion Matrix.
+
+
 
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
