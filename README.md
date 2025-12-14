@@ -29,7 +29,7 @@ The features of the dataset include the following parameters: soil nutrients pho
 temperature, humidity, rainfall, and soil pH. The target is the crop label (crop name).
 
 We first visualize the data to gain understanding of the dataset, features distributions through Histograms, Scatter plots, 
-Boxplots, Violin plots, and features relationship Correlation matrix, Covariance matrix, Pairplots.
+Boxplots, Violin plots, and features relationship uisng Correlation matrix, Covariance matrix, and Pairplots.
 Identified as a ML classification project, we compare Ml models to apply for crop recommendation, including K-Nearest Neighbors,
 Random Forest, Gradient Boost, Support Vector Machine (SVM), Logistic Regression.
 
