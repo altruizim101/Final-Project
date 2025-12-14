@@ -38,6 +38,10 @@ The optimal ML model is determined by comapring performance measures of precisio
 To improve model performance and guide selection of features that are most important in the dataset for classification, 
 we remove data with neglible importance by applying (Feature) Permutation Importance.
 
+The next steps in the analysis will attemopt to apply Ensemble Techniques & Recommendation Systems to improve Crop Recommendation.
+- Bagging, Bootsrapping, Boosting, Voting Ensemble
+- Content Based Filtering, Collaborative, Hybrid
+
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
