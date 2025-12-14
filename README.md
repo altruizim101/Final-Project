@@ -26,7 +26,7 @@ through accessible and affordable technologies en mass for efficient farming res
 This approach will inform farmers in their strategies to safeguard harvests from crop diseases, improving yield.
 
 The features of the dataset include the following parameters: soil nutrients phosphorus (P), potassium (K), and nitrogen (N),   
-temperature, humidity, rainfall, and soil pH. The target is the crop label (crop name).
+and weather characteristics temperature, humidity, rainfall, and soil pH. The target is the crop label (crop name).
 
 We first visualize the data to gain understanding of the dataset, features distributions through Histograms, Scatter plots, 
 Boxplots, Violin plots, and features relationship uisng Correlation matrix, Covariance matrix, and Pairplots.
@@ -63,7 +63,6 @@ Correlation Matrix:
 - Weak positive correlation (~0.22) between Humidity and rainfall.
 - Weak positive correlation (~0.19) between Humidity and Nitrogen (N).
 
-
 Histograms and Feature Distribution:
 -- Plots: >> [https://github.com/altruizim101/Final-Project]
 - A Binomial distribution is observed for Nitrohen.
@@ -93,6 +92,9 @@ ViolinPlots of Features:
 - Technicques & ML models (Random Forest, K Nearest Neighbors, Gradient Boost, SVM, Logistic Regression)
 - Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
 - Additional techniques (TBD)
+
+## Explainability of Analysis
+-- What is results of analysis telling us?
 
 ## Recommendations
 - Make recommendations on crops based on evaluations from above (TBD)
