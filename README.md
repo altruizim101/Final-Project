@@ -21,8 +21,9 @@ The goal of this exercise is to succesfully apply the AI/ML concepts and ML tech
 predictive model to aid in recommendations for suitable crops to grow in a particular farm based on Features of dataset (weather and soil nutrients).
 
 ## Overview - 
-The drive to produce, healthy, nutritous, and abundant food supply with less resources through thoughtful planning and responsible farming practices,
-by employing accessible and affordable technologies ien mass.
+The drive to produce, healthy, nutritous, and abundant food supply with less resources by applying responsible, thoughtful planning and farming best practices,
+through accessible and affordable technologies en mass for efficient farming resource utilization and environmental preservation.
+This approach will inform farmers in strategies to safeguard harvests from crop diseases, improving yield.
 
 
 
