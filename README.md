@@ -8,20 +8,24 @@
 This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters."
 
 ## Proposal -
-
 - Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on analysis applying ML tecchniques?
 - Expected data source(s): [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
-- Techniques expected to use in analysis: Decision Tree, KNN, SVM, among others.
+- Approach and Techniques expected to use in analysis: Decision Tree, KNN, SVM, among others.
 - Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
 - Why this question is important: a) water and land are critical resources b) supports sustainable farming and minimizes application of chemicals,
   which are generally bad for the environment c) optimizes the production of crops based on nutritional needs. Overall, contribute to a healthy
 population one nutritional crop at a time.
 
 ## Goal -
-The goal of this exercise is to succesfully apply the AI/ML concepts and ML technicques acquired in this program to build 
-predictive model to aid in recommendations for suitable crops to grow in a particular farm based on various parameters.
+The goal of this exercise is to succesfully apply the AI/ML concepts and ML technicques acquired in this program to build classification model
+predictive model to aid in recommendations for suitable crops to grow in a particular farm based on Features of dataset (weather and soil nutrients).
 
-   
+## Overview - 
+The drive to produce, healthy, nutritous, and abundant food supply with less resources through thoughtful planning and responsible farming practices,
+by employing accessible and affordable technologies ien mass.
+
+
+
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
