@@ -48,9 +48,9 @@ The next steps in the analysis will attemopt to apply Ensemble Techniques & Reco
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
 ## Links to Project Deliverables
-- READMe file with summary of findings >>  
+- READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
 - Link to Jupyter notebook here >>         
-- Data Analysis & Results >>
+- Data Analysis & Results >> [https://github.com/altruizim101/Final-Project]
 
 ## (Data Understanding)
 Checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
@@ -58,44 +58,42 @@ Action: removed missing (NaN) data in columns
 
 ## Data Visualizations
 Correlation Matrix:
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
 - Strong positive correlation of about +0.76 observed betwee Potassium (K) and Phosphorous (P).
 - Weak positive correlation (~0.22) between Humidity and rainfall.
 - Weak positive correlation (~0.19) between Humidity and Nitrogen (N).
 
-![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CorrMatrtix.png)
-
-![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/CovaMatrix.png)
-
 
 Histograms and Feature Distribution:
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
 - A Binomial distribution is observed for Nitrohen.
 - Temperature and pH approach a normal distribution.
 - Humidity is left-skewed.
 - Rainfall is right-skewed distribution.
 - Potassium (K) is right-skewed distribution.
-![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Histogram.png)
 
 Boxplots of Features:
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
 - pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
-![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Boxplots.png)
 
 ViolinPlots of Features:
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
 - pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
-![plot](/Users/m.jalloh/Downloads/00_FinalApp_CropRecommend/Violinplots.png)
-
 
 ## Data Analysis & Transformation
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
 
 ## Evaluations - Models and Metrics
-- Technicques & ML models applied
-- Metrics for eval: MMSE, MAE, Accuracy score, ...
-- ...
+-- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Technicques & ML models (Random Forest, K Nearest Neighbors, Gradient Boost, SVM, Logistic Regression)
+- Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
+- Additional techniques (TBD)
 
 ## Recommendations
-- Make recommendations on crops based on evaluations from above.
+- Make recommendations on crops based on evaluations from above (TBD)
 
