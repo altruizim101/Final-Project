@@ -35,7 +35,8 @@ Identified as a ML classification exercise, we compare various ML models (includ
 Support Vector Machine (SVM), Logistic Regression and select the optimal ML model to employ for crop recommendation.
 The optimal ML model is determined by comapring performance measures of precision, recall, F1 score, and Confusion Matrix.
 
-
+To improve model performance and guide selection of features that are most important in the dataset for classification, 
+we remove data with neglible importance by applying (Feature) Permutation Importance.
 
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
