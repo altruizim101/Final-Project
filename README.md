@@ -49,7 +49,7 @@ The final submission should include the Jupyter Notebook and other relevant file
 
 ## Links to Project Deliverables
 - READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
-- Link to Jupyter notebook here >>         
+- Link to Jupyter notebook here >> [https://github.com/altruizim101/Final-Project/blob/main/00_CapstoneProj_cropRecommend_JupiterNotebook_DataAnalysis_20p1.ipynb]         
 - Data Analysis & Results >> [https://github.com/altruizim101/Final-Project]
 
 ## (Data Understanding)
