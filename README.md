@@ -63,6 +63,11 @@ hyperparameter tuning 5) select optimal ML algorithm 6) select the important Fea
 7) make recommnedations using optimal ML algorithm with most important Features.
 
 ## Data Visualization & Understanding -
+Data Visualization is an essential step before ML modeling because it helps in understanding the structure & quality of the data. 
+Visualizing features in the data allows us to identify patterns & relationships between variables that may influence model performance. 
+It also helps detect missing values, outliers, and data imbalance that could negatively affect modeling process.
+This step aids in reducing errors, improving model design, and increasing confidence that the ML model is built on well-understood 
+data.
 We first load and visualize the data to gain understanding of dataset, features & distributions through Histograms, Scatter plots, 
 Boxplots, Violin plots, and features relationship uisng Correlation matrix, Covariance matrix, and Pairplots. Understanding of data
 facilitates in selection and application of appropriate ML techniques in the data analysis.
@@ -81,6 +86,14 @@ from the data. The optimal ML model is determined by comapring performance measu
 - Check for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
 - Action: remove missing (NaN) data in columns.
 
+We display data with Freatures (columns) and Samples (rows); how many Features? How many samples? identify data Features? Is data "balanced"? Does data contain missing values? ...
+splitting data into train and test sets is essential for building ML models. The "train" set is used to teach the model about 
+patterns and relationships between input features and target class. The "test" set evaluates how well the model performs on new,
+unseen data.
+
+
+
+
 Correlation Matrix:
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Strong positive correlation of about +0.76 observed betwee Potassium (K) and Phosphorous (P).
@@ -94,6 +107,11 @@ Histograms and Feature Distribution:
 - Humidity is left-skewed.
 - Rainfall is right-skewed distribution.
 - Potassium (K) is right-skewed distribution.
+
+PairPlots:
+- Plots: >> [https://github.com/altruizim101/Final-Project]
+Pairpolts provide a quick, comprehensive view of relationships between the Features in dataset. A pairplot creates scatterplots for every pair of 
+Features, revealing correlations and potential patterns that might influence predictions.
 
 Boxplots of Features:
 - Plots: >> [https://github.com/altruizim101/Final-Project]
@@ -128,7 +146,9 @@ ViolinPlots of Features:
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 ## Links to Project Deliverables -
 - READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
-- Link to Jupyter notebook here >> [https://github.com/altruizim101/Final-Project/blob/main/00_CapstoneProj_cropRecommend_JupiterNotebook_DataAnalysis_20p1.ipynb]         
+- 
+- Jupyter Notebook Python Code: Link to Jupyter notebook >> [??? xxx ??? ]
+-        
 - Data Analysis & Results >> [https://github.com/altruizim101/Final-Project]
 
 
