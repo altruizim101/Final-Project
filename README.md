@@ -133,17 +133,45 @@ Logistic Regression.
 Grid Search: we perform grid search to find the best combination of hyperparameters for the models, and to optimize model performance on the data.
 We evaluate combinations of hyperparameters in a structured approach, to enables a fair comparison between the different models considered, in order to 
 improve the confidence in the recommendation system.
-- Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
+
+## Permutation Importance of Features: best model from GridSearchCV -
+In applying Feature Importance in the crop recommendation system, we understand which soil, weather variables have 
+the greatest influence on the most suitable crop to grow, and use such insights to guide crop recommendation. To guide selection of 
+Features that are most important in dataset for better prediction, we apply Feature Importance and remove data with neglible importance.
+We then do performance comparison by observing metrics of "top picks" of the Features list. 
+- how do the Accuracies compare? ... did accuracy improve/ degrade/ remain the same ? 
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
 
 
 ## Explainability of Evaluation & Metrics -
 - What is results of analysis telling us?
+We employ the Confusion Matrix. The Confusion Matrix for this task provides a detailed view of how well the model predicts each crop class. 
+It shows the number of correct and incorrect predictions for each class.
+Diagonal entries in the Matrix represent crops that were correctly recommended, while off-diagonal entries show those misclassified.
+The Confusion Matrix allows computation of important metrics, including Accuracy, F1-score,  Precision (how often recommended crop(s) 
+are actually suitable), Recall (how many of truly suitable crop(s) correctly recommended). 
+Through these metrics, the Matrix provides transparent evidence of model performance for each crop, and where recommendations are 
+reliable, or where to apply with caution.
 
-## Recommendations - 
-- Make recommendations on crops based on evaluations from above (TBD)
+## Crop Recommendation - 
+The crop recommendation system is implemeted by means of a User-interaction function() that takes in "Input" data from User and outputs a 
+recommended crop to user (farmer), with a corresponding Confidence score. The recommendation is presented by means of a
+Classification Confidence Report.
+- Recommendation via Confidence Report >> [https://github.com/altruizim101/Final-Project]
 
+  
+## Classification Report -
+From the classification report above, we observe that the crop recommendation system had a perfect score for recommending
+Rice, Maze, Kidneybeans, Muskmelon, Apple, Coffee (Accuracy = 1, Precision = 1, F1-score =1).
+The system also had a very high score (score >= 0.99) for many other crops, indicating very good recommendation system.
+Furthermore, macro-average = 0.98 (overall unbiased), weighted-average = 0.98 (accounting for actual distributions of the data), 
+accuracy = 0.98 (system correclty recommends 98% of the time) indicate a consistent strong performance across all crop types, 
+The close alignment of the averages indicate unbiased performance of recommendation system with no significant issues that may 
+arise due to unbalanced data. The system generalizes well, and not favoring certain crops types over others.
+With these observations, it is reasonable to conclude the recommendation system can be considered fair for most of the crop types.
+This indicates a robust and fair recommendation system that can deliver accurate, consistent crop recommendation across a borad range of
+weather conditions and soil types.
 
 
 ## Project Deliverables -
