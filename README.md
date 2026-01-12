@@ -2,20 +2,6 @@
 # Final Report for a Crop Recommendation System
 #
 
-### Data Source: [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
-### Data Summary:
-[Kaggle] ... "Recommendations from evaluation of this dataset with Machine Learning techniques will aid farmers in making informed decisions in their farming strategy. 
-This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on weather and soil characteristics."
-
-## Proposal -
-- Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on analysis applying ML tecchniques?
-- Expected data source(s): [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
-- Approach and Techniques expected to use in analysis: Decision Tree, KNN, SVM, among others.
-- Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
-- Why this question is important: a) water and land are critical resources b) supports sustainable farming and minimizes application of chemicals,
-  which are generally bad for the environment c) optimizes the production of crops based on nutritional needs. Overall, contribute to a healthy
-population one nutritional crop at a time.
-
 ## Goal -
 The goal of this project is to apply Machine Learning (ML) concepts and technicques acquired in program to build classification/ 
 predictive model that aids in the making recommendations for suitable crops to grow based on input Features of dataset (features include
@@ -41,6 +27,18 @@ The optimal ML model is determined by comapring performance measures of precisio
 
 To improve model performance and guide selection of features that are most important in the dataset for classification, 
 we remove data with neglible importance by applying (Feature) Permutation Importance.
+
+## Proposal -
+- Research question I expect to answer (in one sentence, if possible) : Are farmers better off using recommendations based on analysis applying ML tecchniques?
+- Data source(s): [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/data]
+   Kaggle Data Summary ... "Recommendations from evaluation of this dataset with Machine Learning techniques will aid farmers in making informed decisions in their farming strategy.   
+   This dataset allows the users to build a predictive model to aid in recommendations for suitable crops to grow in a particular farm based on weather and soil characteristics."
+
+- Approach and Techniques expected to use in analysis: Random Forest, Decision Tree, K-Nearest Neighbors, Support Vector Machine (SVM), Logistic Regression.
+- Expected results: Presented through data visualization, models used for evaluations, accuracy of models, correlation driving recommendations.
+- Why this question is important: a) water and land are critical resources b) supports sustainable farming and minimizes application of chemicals,
+  which are generally bad for the environment c) optimizes the production of crops based on nutritional needs. Overall, contribute to a healthy
+population one nutritional crop at a time.
 
 ## Challenges, Pitfalls - 
 Developing a robust and effective model for crop recommendation has several challenges. Accurate recommendations depend on 
