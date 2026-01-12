@@ -175,7 +175,7 @@ weather conditions and soil types.
 
 
 ## Project Deliverables -
-The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
+The final submission includes the Jupyter Notebook and other relevant files: dataset from Kaggle, and uploaded to GitHub repository.
 ## Links to Project Deliverables -
 - READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
 - 
