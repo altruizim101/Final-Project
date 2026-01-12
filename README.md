@@ -54,7 +54,7 @@ by reducing spending on water, fertilizers, and pesticide. The system minimizes 
 reducing the likelihood of crop failure under poor farming conditions. In addition, optimized crop planning promotes sustainable farming 
 practices by supporting better soil health and more efficient use of natural resources over time.
 
-## Approach and steps -
+## Approach and Steps -
 The features of the dataset (from Kaggle platform) include following parameters: soil nutrients phosphorus (P), potassium (K), and nitrogen (N),
 and weather characteristics temperature, humidity, rainfall, and soil pH. The target is the crop label (crop name).
 We apply the following steps in this exercise: 
@@ -82,13 +82,13 @@ from the data. The optimal ML model is determined by comapring performance measu
 - Action: remove missing (NaN) data in columns.
 
 Correlation Matrix:
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - Strong positive correlation of about +0.76 observed betwee Potassium (K) and Phosphorous (P).
 - Weak positive correlation (~0.22) between Humidity and rainfall.
 - Weak positive correlation (~0.19) between Humidity and Nitrogen (N).
 
 Histograms and Feature Distribution:
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - A Binomial distribution is observed for Nitrohen.
 - Temperature and pH approach a normal distribution.
 - Humidity is left-skewed.
@@ -96,28 +96,28 @@ Histograms and Feature Distribution:
 - Potassium (K) is right-skewed distribution.
 
 Boxplots of Features:
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
 
 ViolinPlots of Features:
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - pH shows the narrowest distribution, with smallest variance, followed by Teamperature.
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
 
 ## Data Analysis & Transformation -
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
 
 ## Evaluation: Models and Metrics -
--- Plots: >> [https://github.com/altruizim101/Final-Project]
+- Plots: >> [https://github.com/altruizim101/Final-Project]
 - Technicques & ML models (Random Forest, K Nearest Neighbors, Gradient Boost, SVM, Logistic Regression)
 - Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
 
 ## Explainability of Analysis -
--- What is results of analysis telling us?
+- What is results of analysis telling us?
 
 ## Recommendations - 
 - Make recommendations on crops based on evaluations from above (TBD)
