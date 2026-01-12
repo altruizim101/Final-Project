@@ -181,7 +181,7 @@ The final submission includes the Jupyter Notebook and other relevant files: dat
 ## Links to Project Deliverables -
 - READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
 - 
-- Jupyter Notebook Python Code: Link to Jupyter notebook >> [??? xxx ??? ]
+- Jupyter Notebook Python Code: Link to Jupyter notebook >> [https://github.com/altruizim101/Final-Project/blob/main/00_CapstoneProj_cropRecommend_Final_JupyterNotebook_15Jan26.ipynb]
 -        
 - Data Analysis & Results >> [https://github.com/altruizim101/Final-Project]
 
