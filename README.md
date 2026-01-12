@@ -124,7 +124,7 @@ ViolinPlots of Features:
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
 
-## Analysis & System Modeling -
+## Evaluation, Models & Metrics -
 Several ML models are employed. We perform hyperparameter tuning using GridSearch and Cross validation.
 Exploring various ML algorithms: choosing the appropriate model for a crop recommendation system depends on several factors, including 
 data size, feature characteristics, interpretability needs, and performance requirements. Evaluating and comparing several models enables 
@@ -133,15 +133,10 @@ Logistic Regression.
 Grid Search: we perform grid search to find the best combination of hyperparameters for the models, and to optimize model performance on the data.
 We evaluate combinations of hyperparameters in a structured approach, to enables a fair comparison between the different models considered, in order to 
 improve the confidence in the recommendation system.
-
-
+- Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
 
-## Evaluation: Models and Metrics -
-- Plots: >> [https://github.com/altruizim101/Final-Project]
-- Technicques & ML models (Random Forest, K Nearest Neighbors, Gradient Boost, SVM, Logistic Regression)
-- Metrics for evaluation: accuracy score, F1 score, Recall, Precision 
 
 ## Explainability of Analysis -
 - What is results of analysis telling us?
