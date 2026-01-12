@@ -138,7 +138,9 @@ improve the confidence in the recommendation system.
 In applying Feature Importance in the crop recommendation system, we understand which soil, weather variables have 
 the greatest influence on the most suitable crop to grow, and use such insights to guide crop recommendation. To guide selection of 
 Features that are most important in dataset for better prediction, we apply Feature Importance and remove data with neglible importance.
-We then do performance comparison by observing metrics of "top picks" of the Features list. 
+We then do performance comparison by observing metrics of "top picks" of the Features list.
+
+Top Features: Phosphorous (P) is top pick, followed by rainfall temperature, and humidity. 
 - how do the Accuracies compare? ... did accuracy improve/ degrade/ remain the same ? 
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
