@@ -80,8 +80,8 @@ from the data. The optimal ML model is determined by comapring performance measu
 
 
 ## Data preprocessing & Visualizations
->> Check for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
->> Action: remove missing (NaN) data in columns.
+- Check for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
+- Action: remove missing (NaN) data in columns.
 
 Correlation Matrix:
 -- Plots: >> [https://github.com/altruizim101/Final-Project]
