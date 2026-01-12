@@ -179,10 +179,8 @@ weather conditions and soil types.
 ## Project Deliverables -
 The final submission includes the Jupyter Notebook and other relevant files: dataset from Kaggle, and uploaded to GitHub repository.
 ## Links to Project Deliverables -
-- READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project]
-- 
-- Jupyter Notebook Python Code: Link to Jupyter notebook >> [https://github.com/altruizim101/Final-Project/blob/main/00_CapstoneProj_cropRecommend_Final_JupyterNotebook_15Jan26.ipynb]
--        
+- READMe file with summary of findings >>  [https://github.com/altruizim101/Final-Project/blob/main/README.md]
+- Jupyter Notebook Python Code >> [https://github.com/altruizim101/Final-Project/blob/main/00_CapstoneProj_cropRecommend_Final_JupyterNotebook_15Jan26.ipynb]   
 - Data Analysis & Results >> [https://github.com/altruizim101/Final-Project]
 
 
