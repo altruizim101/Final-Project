@@ -138,7 +138,7 @@ improve the confidence in the recommendation system.
 - Feature Engineering
 
 
-## Explainability of Analysis -
+## Explainability of Evaluation & Metrics -
 - What is results of analysis telling us?
 
 ## Recommendations - 
