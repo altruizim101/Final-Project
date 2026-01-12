@@ -91,10 +91,9 @@ splitting data into train and test sets is essential for building ML models. The
 patterns and relationships between input features and target class. The "test" set evaluates how well the model performs on new,
 unseen data.
 
-
-
-
-Correlation Matrix:
+Correlation, Covariance Matrices Heatmaps:
+Covariance is a measure of how two features in the data vary together.
+Correlation helps identify which Feature in the data is strongly correlated to the Target.
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Strong positive correlation of about +0.76 observed betwee Potassium (K) and Phosphorous (P).
 - Weak positive correlation (~0.22) between Humidity and rainfall.
@@ -125,7 +124,17 @@ ViolinPlots of Features:
 - Humidity and Potassium (K) shows comaprable variances.
 - Rainfall and Nitrgen shows the laragest variances.
 
-## Data Analysis & Transformation -
+## Analysis & System Modeling -
+Several ML models are employed. We perform hyperparameter tuning using GridSearch and Cross validation.
+Exploring various ML algorithms: choosing the appropriate model for a crop recommendation system depends on several factors, including 
+data size, feature characteristics, interpretability needs, and performance requirements. Evaluating and comparing several models enables 
+us to choose the best model. Models selected for evaluation include K-Nearest Neighbors, Random Forest, Gradient-Boost, Support-Vector Machine (SVM) and 
+Logistic Regression.
+Grid Search: we perform grid search to find the best combination of hyperparameters for the models, and to optimize model performance on the data.
+We evaluate combinations of hyperparameters in a structured approach, to enables a fair comparison between the different models considered, in order to 
+improve the confidence in the recommendation system.
+
+
 - Plots: >> [https://github.com/altruizim101/Final-Project]
 - Feature Engineering
 
