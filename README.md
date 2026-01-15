@@ -9,7 +9,7 @@ weather and soil nutrients).
 This exercise aims to classify the most suitable crop for cultivation based on soil and weather conditions. Given input features 
 as soil nutrient levels (N, P, K), pH, moisture, temperature, rainfall, and humidity, the system predicts a single crop class that 
 is most likely to perform well under those conditions. This enables the farmer in making decisions that optimize productivity and efficient 
-use of resources, reduce uncertainty, avoid unsuitable crop choices, and improve consistency in farm output.
+use of resources, reduce uncertainty, avoid unsuitable crop choices, and improve consistency in farm output. 
 
 ## Overview - 
 The drive to produce, healthy, nutritous, and abundant food supply with less resources by applying responsible, thoughtful planning and farming best practices,
